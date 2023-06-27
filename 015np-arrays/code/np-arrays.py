@@ -1,5 +1,5 @@
 import numpy #imports the numpy library
-
+#we need to reverse the array using numpy functionality from the online video module
 def arrays(arr):
     # complete this function
     # use numpy.array
