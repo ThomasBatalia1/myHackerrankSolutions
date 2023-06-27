@@ -1,4 +1,4 @@
-import numpy
+import numpy #imports the numpy library
 
 def arrays(arr):
     # complete this function
